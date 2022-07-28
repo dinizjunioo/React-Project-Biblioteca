@@ -1,0 +1,29 @@
+.side {
+    border: 1px solid #F0F8FF;
+    flex: 29%;
+    margin-left: 80px;
+    max-width: 20%;
+    background-color: #F5F5DC;
+    padding: 20px;
+    border-radius: 10px;
+}
+.side h3{
+    color: #50C878;
+}
+.side ul{
+ color:#44D7A8;
+}
+.side ul a{
+ color:#4C516D;
+}
+.side ul, li{
+    margin-left: 20px;
+}
+
+
+@media (max-width: 1300px){   
+    .side{
+        max-width: 100%;
+        float: none;
+    }
+}

@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "name": "wdawadaw",
+      "description": "adwdwa",
+      "livro": "321",
+      "category": {
+        "id": "2",
+        "name": "Entre 18-22 anos"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "dwadwa",
+      "livro": "121",
+      "category": {
+        "id": "2",
+        "name": "Entre 18-22 anos"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Menor de idade"
+    },
+    {
+      "id": 2,
+      "name": "Entre 18-22 anos"
+    },
+    {
+      "id": 3,
+      "name": "Entre 22-30 anos"
+    },
+    {
+      "id": 4,
+      "name": "Entre 30-45 anos"
+    },
+    {
+      "id": 5,
+      "name": "acima de 45 anos"
+    }
+  ]
+}

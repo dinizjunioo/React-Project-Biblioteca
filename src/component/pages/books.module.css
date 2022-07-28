@@ -1,0 +1,29 @@
+.book_container
+{
+    padding: 2em;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+}
+.title_container
+{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+    
+}
+.row {  
+    background-color: #FFFAF0;
+    display: flex;
+    flex-wrap: wrap;
+    margin : 0px;
+}
+
+.main {
+    background-color: #FFFAF0;
+    border: 1px solid #F0F8FF;
+    flex: 69%;
+    margin-left: 15px;
+    max-width: 76%;
+    padding: 20px;
+}

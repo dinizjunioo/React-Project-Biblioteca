@@ -1,0 +1,32 @@
+
+.row {  
+    background-color: #FFFAF0;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+ 
+}
+
+/* Main column */
+.main {
+    margin: 0 auto;
+    width: 450px;
+    padding: 3em;
+    
+    text-align: center;
+    background-color: #FFFAF0;
+    border: 1px solid #F0F8FF;
+    flex: 69%;
+    margin-left: 15px;
+    max-width: 76%;
+    padding: 20px;
+}
+
+.main h1
+{
+    margin-bottom: 0.5em;
+}
+.main p
+{
+    color:#7b7b7b;
+}

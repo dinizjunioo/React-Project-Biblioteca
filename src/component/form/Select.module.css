@@ -1,0 +1,28 @@
+.form_control
+{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+    width: center;
+    align-items: center;
+    
+}
+
+.form_control label
+{
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.form_control select
+{
+   text-align: left;
+    padding: 0.7em;
+    border-radius: 0;
+    border: none;
+}
+.form_control select
+{ 
+    color: #7b7b7b;
+}
